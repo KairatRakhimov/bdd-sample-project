@@ -1,4 +1,4 @@
-package com.kairatr.bdd;
+package com.kairatr.bdd.integration;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;

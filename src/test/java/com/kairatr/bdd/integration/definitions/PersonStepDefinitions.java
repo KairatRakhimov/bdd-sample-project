@@ -1,4 +1,4 @@
-package com.kairatr.bdd.definitions;
+package com.kairatr.bdd.integration.definitions;
 
 import com.kairatr.bdd.BddApplication;
 import com.kairatr.bdd.entity.Person;
