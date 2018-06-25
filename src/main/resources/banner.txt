@@ -1,0 +1,2 @@
+    Sample project to play with BDD. Spring Boot with Cucumber-JVM.
+    Developer: Kairat Rakhimov (kayratr@gmail.com)

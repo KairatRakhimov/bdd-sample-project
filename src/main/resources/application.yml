@@ -1,0 +1,11 @@
+logging:
+  level:
+    ROOT: ERROR
+    com.kairatr: DEBUG
+  file:
+    max-history: 3
+    max-size: 10MB
+  path: logs
+
+server:
+  port: 8888
